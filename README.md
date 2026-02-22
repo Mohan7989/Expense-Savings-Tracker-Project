@@ -109,11 +109,6 @@ mail.password=
 - feature/* → Individual Modules
 - hotfix/* → Emergency Fixes
 
----
-
-## 🧑‍💻 Author
-
-Neela Mohan
 
 ---
 
